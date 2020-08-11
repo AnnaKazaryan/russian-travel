@@ -1,0 +1,15 @@
+.header__languages {
+    list-style-type: none;
+    margin: 0;
+    padding: 18px 0 0;
+    display: grid;
+    grid-template-columns: 30px 30px;
+    gap: 18px;
+}
+
+@media screen and (max-width: 320px) {
+    .header__languages {
+        grid-template-columns: 22px 22px;
+        padding: 14px 0 0;
+    }
+}
