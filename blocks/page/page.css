@@ -9,8 +9,5 @@
   -moz-text-size-adjust: 100%;
   /* rendering */
   text-rendering: optimizeLegibility;
-  max-width: 1600px;
-  margin: 0 auto;
   background-color: #2A2C2F;
-  font-family: 'Inter';
   }
