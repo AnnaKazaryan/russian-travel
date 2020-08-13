@@ -1,7 +1,7 @@
 @import url(./__logo/header__logo.css);
 @import url(./__languages/header__languages.css);
 @import url(./__lang-link/header__lang-link.css);
-@import url(./__selected-language/header__selected-language.css);
+@import url(./__lang-link/_selected/header__lang-link_selected.css);
 
 .header {
     padding: 28px 48px 48px;
