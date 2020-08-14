@@ -1,13 +1,8 @@
 .cover__link {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #2A2C2F;
-    opacity: 0.3;
-}
-
-.cover__overlay:hover .cover__link {
-    opacity: 0.8;
+    display: block;
+    width: 100%;
+    padding-bottom: 62.5%;
+    background-image: url(../../../images/cover-trains.jpg);
+    background-size: 100% 100%;
+    position: relative;
 }
